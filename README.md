@@ -15,7 +15,7 @@ algorithm visualizers.
 |---------|-------|--------------|
 | [M-Pesa STK Push API](https://github.com/daniel-oyoo/mpesa-daraja-spring) | Java · Spring Boot · MySQL · Docker | Production-style payment gateway integration with idempotency, callbacks, and CI |
 | [Library Management API](https://github.com/daniel-oyoo/library-management-api) | Java · Spring Boot · Hibernate | Layered REST API with CRUD, validation, and integration tests |
-| [Expense Tracker](https://github.com/daniel-oyoo/expense-tracker) | Java · Spring Boot · JS | Full-stack expense tracking app |
+| [Expense Tracker](https://github.com/daniel-oyoo/expense-tracker) | Java · JavaFx | Full-stack expense tracking app |
 | [Algorithm Visualizer](https://github.com/daniel-oyoo/algorithims-visualizer) | JavaScript · HTML · CSS | Interactive sorting and pathfinding visualizations |
 
 ## Tech I work with
