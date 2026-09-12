@@ -6,8 +6,7 @@ algorithm visualizers.
 
  Currently building: M-Pesa Daraja STK Push API (Spring Boot + Docker + CI/CD)
  Learning: React, C#/.NET, microservices, AI-assisted development
- Ask me about: Spring Boot, REST API design, MySQL, JDBC
- Based in Lincoln, NE
+ Ask me about: Spring Boot, REST API design, MySQL, JDBC.
 
 ## Featured Projects
 
